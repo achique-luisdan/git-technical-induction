@@ -72,3 +72,15 @@ git merge RAMA-FUSIONAR
 ```
 git push origin RAMA-BASE
 ```
+
+## 6. PODAR RAMAS
+
+### Elimina rama local de tu computadora
+```
+git branch -d RAMA
+```
+
+### Elimina rama remota del servidor
+```
+git push origin --delete RAMA
+```
