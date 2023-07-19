@@ -73,6 +73,17 @@ git merge RAMA-FUSIONAR
 git push origin RAMA-BASE
 ```
 
+### Abortar fusión
+```
+git merge --abort
+```
+
+
+## Fusionar archivos o carpetas específicas
+```
+git checkout source_branch -- path/to/file
+```
+
 ## 6. PODAR RAMAS
 
 ### Elimina rama local de tu computadora
