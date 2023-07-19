@@ -88,7 +88,7 @@ git checkout source_branch -- path/to/file
 
 ### Elimina rama local de tu computadora
 ```
-git branch -d RAMA
+git branch -D RAMA
 ```
 
 ### Elimina rama remota del servidor
