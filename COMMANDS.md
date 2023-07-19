@@ -79,7 +79,7 @@ git merge --abort
 ```
 
 
-## Fusionar archivos o carpetas específicas
+### Fusionar archivos o carpetas específicas
 ```
 git checkout source_branch -- path/to/file
 ```
