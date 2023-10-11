@@ -65,7 +65,7 @@ Si usted quiere iniciar utilizando Git, es recomendable iniciar creando una cuen
 
 **Notas:**
 * Es importante que utilice una dirección de correo electrónica que esté totalmente operativa, debido que la misma se utilizada por las plataformas de GitLab o GitHub para confirmar, validar y recuperar su cuenta.
-* También recuerde el nombre de usuario que suministro que lo usura más adelante.
+* También recuerde el nombre de usuario que suministro que lo usarás más adelante.
 
 #### 2.2 Abra una Shell
 
